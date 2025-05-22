@@ -1,2 +1,2 @@
-# Deep-learning-for-predicting-quantitative-phenotypes-from-genotypes
+# Deep-Learning-for-Predicting-Quantitative-Phenotypes-from-Genotypes
 Available soon.
