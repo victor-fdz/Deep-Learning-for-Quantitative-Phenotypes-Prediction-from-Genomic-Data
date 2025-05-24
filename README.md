@@ -6,6 +6,6 @@ In this repository you will find all the contecnt related to my **Bachelor Thesi
 
 ## 📁 `Practical_Example`
 - 📄 `DL_Example.ipynb`: Jupyter Notebook containing the example model.
+- 📄 `Environment_DL.yml`: conda environment with the required packages. 
+- 📄 `model_saved.keras`: model in itself extracted from the example.
 - 📄 `sequences_data.csv`: simulated data generated in the example. 
-- 📄 `deep_learning_env.yml`: conda environment with the required packages. 
-- 📄 `model_saved.keras`: model in itself extracted from the example. 
